@@ -1,4 +1,3 @@
 LAN proxy server to use Nvidia NIM API on platforms where it fails like janitorai.com
 
-Insert your API key in .env.
-Configure models via
+Insert your API key in .env and also your models ids.
